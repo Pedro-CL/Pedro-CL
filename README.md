@@ -4,10 +4,9 @@
 
 <br>
 
-Sou um aventureiro apaixonado por Tecnologia e Design que adora aprender coisas novas e pensar fora da caixa. Se você me encontrar nas horas vagas, é provável que eu esteja desenvolvendo algo ou imerso em algum projeto mirabolante.
+Sou apaixonado por desafios, estou sempre de olho em aprender algo novo e pensar um pouco fora da caixa, no bom sentido. É bem possível me encontrar desenvolvendo projetos com arduino, esses projetos me ajudam a aprender tanto em programação quanto em eletrônica e design. Por aqui você vai encontrar os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
 
 <br><div align="center">
-
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-CL&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-CL&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
 
@@ -15,7 +14,7 @@ Sou um aventureiro apaixonado por Tecnologia e Design que adora aprender coisas 
 
 ## Tech stack 🚀
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <br><br><br>
 
