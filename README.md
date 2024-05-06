@@ -7,8 +7,8 @@
 Sou apaixonado por desafios, estou sempre de olho em aprender algo novo e pensar um pouco fora da caixa, no bom sentido. É bem possível me encontrar desenvolvendo projetos com arduino, esses projetos me ajudam a aprender tanto programação quanto eletrônica e pelo incrível que pareça o design (UX/UI) também. Por aqui você vai encontrar os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
 
 <br><div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedro-CL&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-CL&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrocarneirodev&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarneirodev&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
 
 <br><br></div>
 
