@@ -1,21 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=35&pause=1000&color=4682B4&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Hello+Word!+Me+chamo+Pedro+Carneiro" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=35&pause=750&color=4682B4&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Hello+Word!+Me+chamo+Pedro+Carneiro" alt="Typing SVG" /></a>
 
 <br>
 
-Sou apaixonado por desafios, estou sempre de olho em aprender algo novo e pensar um pouco fora da caixa, no bom sentido. É bem possível me encontrar desenvolvendo projetos com arduino, esses projetos me ajudam a aprender tanto programação quanto eletrônica e pelo incrível que pareça o design (UX/UI) também. Por aqui você vai encontrar os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
+Atualmente, sou estudante em Ciência da Computação na UCB, adoro desafios e estou sempre de olho em aprender algo novo. É bem possível me encontrar desenvolvendo projetos com arduino, gosto de desenvolver projetos com microcontroladores, por que é uma combinação perfeita de eletrônica e programação. Por aqui você vai encontrar principalmente os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
 
 <br><div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrocarneirodev&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarneirodev&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrocarneirodev&&rank_icon=github&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarneirodev&langs_count=6&layout=compact&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
 
 <br><br></div>
 
 ## Tech stack 🚀
 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 <br><br><br>
 
 <br><div align="center">
