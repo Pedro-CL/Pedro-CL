@@ -4,7 +4,7 @@
 
 <br>
 
-Atualmente, sou estudante em Ciência da Computação na UCB, adoro desafios e estou sempre de olho em aprender algo novo. É bem possível me encontrar desenvolvendo projetos com arduino, gosto de desenvolver projetos com microcontroladores, por que é uma combinação perfeita de eletrônica e programação. Por aqui você vai encontrar principalmente os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
+Atualmente, sou estudante em Ciência da Computação na UCB, adoro desafios e estou sempre de olho em aprender algo novo. É bem possível me encontrar desenvolvendo projetos com arduino, gosto de desenvolver projetos com microcontroladores, por que é uma combinação perfeita para aprender eletrônica e programação. Por aqui você vai encontrar principalmente os meus trabalhos e atividades acadêmicas e alguns projetos que eu faço durante as férias.
 
 <br><div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrocarneirodev&&rank_icon=github&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Pedro Carneiro gitHub stats" >
